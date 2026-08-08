@@ -44,3 +44,47 @@
 [2a06:98c1:51:6bcd:482f:c1ee:dbea:acc1]:443#新加坡0.74MB/s
 [2a06:98c1:51:561b:380e:462b:efdc:6685]:443#新加坡0.61MB/s
 [2a06:98c1:50:340d:5483:a1fb:d86b:3b26]:443#新加坡0.47MB/s
+64.186.240.9:8443#US Los Angeles AS906 DMIT Cloud Services
+97.64.27.251:2053#US Los Angeles AS25820 IT7 Networks Inc
+174.136.205.75:443#US Los Angeles AS906 DMIT Cloud Services
+93.179.113.25:8443#US Los Angeles AS25820 Cluster Logic Inc
+69.63.206.96:8443#US Los Angeles AS906 DMIT Cloud Services
+199.115.231.112:2053#US Los Angeles AS25820 Cluster Logic Inc
+69.63.214.235:8443#US Los Angeles AS906 DMIT Cloud Services
+154.17.22.207:443#US Los Angeles AS906 DMIT Cloud Services
+45.89.234.109:443#日本💨xTom Japan Corporation
+45.89.235.139:443#日本💨xTom Japan Corporation
+45.89.234.115:443#日本💨xTom Japan Corporation
+45.94.40.79:8443#日本💨xTom Japan Corporation
+45.153.247.119:443#日本💨xTom Japan Corporation
+45.94.40.58:8443#日本💨xTom Japan Corporation
+185.200.65.32:443#日本💨xTom Japan Corporation
+185.200.66.10:443#日本💨xTom Japan Corporation
+45.142.127.22:443#日本💨xTom Japan Corporation
+45.142.127.205:443#日本💨xTom Japan Corporation
+45.153.245.221:443#日本💨xTom Japan Corporation
+103.47.186.56:443#日本💨xTom Japan Corporation
+185.200.66.95:8443#日本💨xTom Japan Corporation
+167.253.156.210:8443#日本💨xTom Japan Corporation
+193.111.30.37:443#日本💨xTom Japan Corporation
+45.142.126.32:443#日本💨xTom Japan Corporation
+191.222.223.84:443#JP-Tokyo
+191.222.223.93:443#JP-Tokyo
+191.223.221.102:443#JP-Tokyo
+191.223.221.101:443#JP-Tokyo
+191.222.223.20:443#JP-Tokyo
+154.17.10.133:443#US-LAX
+154.17.10.205:443#US-LAX
+154.17.0.118:443#US-LAX
+154.17.1.168:443#US-LAX
+154.17.1.195:443#US-LAX
+154.17.16.199:443#US-LAX
+64.186.228.41:443#夏特
+64.186.246.65:443#夏特
+45.59.186.73:29453#夏特
+45.59.184.58:8443#夏特
+45.59.187.68:33004#夏特
+45.59.184.18:443#夏特
+64.186.248.143:54981#夏特
+45.59.187.71:8444#夏特
+64.186.246.154:45068#夏特
